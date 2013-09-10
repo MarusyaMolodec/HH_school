@@ -1,7 +1,4 @@
 HH_school
 =========
 
-$mkdir ~/HH_school
-cd ~/HH_school
-git init
-touch README
+Marusya's solution for the 'Calendar' task on school.hh.ru
